@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Recycle</string>
+    <string-array name="programming_languages">
+        <item>C</item>
+        <item>C++</item>
+        <item>Java</item>
+        <item>JavaScript</item>
+        <item>TypeScript</item>
+        <item>Python</item>
+        <item>Visual Studio</item>
+        <item>swift</item>
+
+
+    </string-array>
+    <string-array name="Description">
+        <item> procedural computer programming language</item>
+        <item>  Is an object oriented language</item>
+        <item> Java is a general-purpose programming language that is class-based, object-oriented, and designed to have as few implementation dependencies as possible.</item>
+        <item> description</item>
+        <item> description</item>
+        <item> description</item>
+        <item> description</item>
+        <item> description</item>
+
+    </string-array>
+</resources>
